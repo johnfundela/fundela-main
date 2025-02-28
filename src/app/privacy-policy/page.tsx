@@ -36,7 +36,7 @@ export default function WhatWeDo() {
       <div className="p-2 flex justify-center 2xl:py-10">
         <div className="2xl:w-6/12 text-lg">
           <p className="font-bold">Privacy Policy</p>
-          <p className="font-bold">Effective Date: October 7, 2024</p>
+          <p className="font-bold">Effective Date: February 28, 2025</p>
           <p className="my-4">
             This website is operated by Fundela LLC (“Fundela”). We prioritize
             the privacy of our visitors and customers and are committed to
@@ -60,6 +60,17 @@ export default function WhatWeDo() {
               <p className="font-bold">1. Information We Collect</p>
               <span className="my-2">
                 <p className="font-bold">1.1 Personal Information</p>
+                <p className="my-4">
+                <span className="font-semibold">Personally Identifiable Information (PII): </span>
+                This includes your name, email, address, phone
+                number, and any other details you directly provide, even through a text message. 
+                </p>
+                <p className="my-4">
+                <span className="font-semibold">Non-Personally Identifiable Information (Non-PII): </span>
+                Technical data like your IP address,
+                browser, device details, website usage, including how you use our text messaging.
+                </p>
+                
                 <p className="my-4">
                   Fundela may collect personal data about business owners as
                   part of the application process for capital. &quot;Personal
@@ -148,24 +159,30 @@ export default function WhatWeDo() {
                 marketing messages, but service-related communications are
                 necessary to use our platform.
               </span>
-              <span className="my-2">
-                <p className="font-bold">2.3 Third-Party Providers</p>
-                We work with service providers, such as cloud storage or
-                transaction monitoring services, who may collect or access your
-                information on our behalf.
-              </span>
             </li>
             <li>
               <p className="font-bold">3. Use of Your Information</p>
               We use the data collected for various purposes, including:
               <p className="my-4">
                 <span className="font-semibold"> Providing Services: </span>
-                Providing Services: To process your application and verify your
+                To process your application and verify your
                 identity.
               </p>
               <p className="my-4">
-                <span className="font-semibold">Communications: </span>
-                To send updates or marketing messages.
+                <span className="font-semibold">Service Delivery: </span>
+                To provide and enhance our services, including our text messaging.
+              </p>
+              <p className="my-4">
+                <span className="font-semibold">Communication: </span>
+                Responding to your questions (including those via text), and for marketing if you opt-in.
+              </p>
+              <p className="my-4">
+                <span className="font-semibold">Analytics: </span>
+                Understanding how you use our Site and text features to make improvements.
+              </p>
+              <p className="my-4">
+                <span className="font-semibold">Legal Compliance: </span>
+                  Fulfilling legal requirements.
               </p>
               <p className="my-4">
                 <span className="font-semibold">Customer Support: </span>
@@ -175,15 +192,11 @@ export default function WhatWeDo() {
                 <span className="font-semibold">Security: </span>
                 To prevent fraud and secure your account.
               </p>
-              <p className="my-4">
-                <span className="font-semibold">Compliance: </span>
-                To fulfill legal obligations.
-              </p>
             </li>
             <li>
               <p className="font-bold">4. Sharing Information</p>
               <p>
-                Fundela does not sell your personal information. However, we may
+              Your information, including that shared via text, is never sold. However, we may
                 share data under the following conditions:
               </p>
               <p className="my-4">
@@ -198,36 +211,41 @@ export default function WhatWeDo() {
               <p className="my-4">
                 <span className="font-semibold">Business Transactions: </span>
                 In the event of a merger or acquisition, your data may be
-                transferred as part of the transaction.:
+                transferred as part of the transaction.
               </p>
             </li>
             <li>
-              <p className="font-bold">5. Data Security </p>
-              We take reasonable measures to protect your data from unauthorized
-              access or misuse. While we work hard to secure your information,
-              no method of transmission over the internet is entirely secure. In
-              the event of a security breach, we will notify affected
-              individuals as required by law.
-            </li>
-            <li>
-              <p className="font-bold">6. Your Choices </p>
-              You can opt out of receiving marketing emails by following the
-              instructions in the emails or contacting us. You can also request
-              access to, update, or delete your personal information by reaching
-              out to our support team.
-            </li>
-            <li>
-              <p className="font-bold">7. Policy Updates</p>
-              We may update this Privacy Policy as needed. We will notify users
-              of significant changes by posting the updated policy on our
-              website with a new effective date.
-            </li>
-            <li>
-              <p className="font-bold">8. Contact Information </p>
+              <p className="font-bold">5. Third Parties</p>
               <p>
-                If you have any questions about this Privacy Policy or need to
-                exercise your privacy rights,
+              We only share your information when legally obligated or to provide necessary services. We
+              ensure they handle your data securely and in line with this Privacy Policy.
               </p>
+            </li>
+            <li>
+              <p className="font-bold">6. Cookies</p>
+              <p>
+              We may use cookies and similar technologies for better user experience, analytics, and
+              personalization. You can manage these settings in your browser.
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">7. External Links</p>
+              <p>
+              We may link to other websites. Please review their privacy policies as we are not responsible for
+              their practices.
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">8. Children's Privacy</p>
+              <p>
+              Our services, including texting, are not for children under 13. We do not intentionally gather their data.
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">9. Policy Updates</p>
+              This Privacy Policy may change. The &quot;Last Updated&quot; date reflects revisions. Continued use of our services means you accept any changes.
+            </li>
+            <li>
               <p>please contact us at:</p>
               <p className="font-semibold">Fundela</p>
               <p>39 Broadway, Suite 650</p>
