@@ -49,7 +49,7 @@ export default function WhatWeDo() {
             Policy applies to anyone who interacts with our Services.
           </p>
           <p className="my-4">
-            We encourage you to review Fundela’s Terms of Use. Where necessary
+            We encourage you to review Fundela&#39;s Terms of Use. Where necessary
             by law, we will request your consent to collect, use, and share your
             personal information as described below. Otherwise, by using our
             Services, you consent to the collection and use of your data as
