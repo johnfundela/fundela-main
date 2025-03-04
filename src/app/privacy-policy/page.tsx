@@ -236,7 +236,7 @@ export default function WhatWeDo() {
               </p>
             </li>
             <li>
-              <p className="font-bold">8. Children's Privacy</p>
+              <p className="font-bold">8. Children&#39;s Privacy</p>
               <p>
               Our services, including texting, are not for children under 13. We do not intentionally gather their data.
               </p>
