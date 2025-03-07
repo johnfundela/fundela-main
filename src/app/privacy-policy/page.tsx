@@ -1,3 +1,7 @@
+import { Metadata } from "next";
+import { FadeIn, FadeInLeft } from "@/components/motion/fade-in";
+import ContactUsForm from "@/components/jot-form/contact-us-form";
+
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description: "Fundela Privacy Policy",
@@ -22,7 +26,7 @@ export default function WhatWeDo() {
           <div className="flex flex-col justify-center col-span-2 xl:col-span-1">
             <FadeInLeft>
               <div className="flex flex-col justify-center">
-                <span className="text-5xl  text-white font-semibold  text-center xl:text-start">
+                <span className="text-5xl text-white font-semibold text-center xl:text-start">
                   Privacy Policy
                 </span>
               </div>
@@ -81,13 +85,13 @@ export default function WhatWeDo() {
           <p className="my-4">
             We may link to other websites. Please review their privacy policies as we are not responsible for their practices.
           </p>
-          <p className="font-bold">Children's Privacy</p>
+          <p className="font-bold">Children&apos;s Privacy</p>
           <p className="my-4">
             Our services, including texting, are not for children under 13. We do not intentionally gather their data.
           </p>
           <p className="font-bold">Updates</p>
           <p className="my-4">
-            This Privacy Policy may change. The "Last Updated" date reflects revisions. Continued use of our services means you accept any changes.
+            This Privacy Policy may change. The &quot;Last Updated&quot; date reflects revisions. Continued use of our services means you accept any changes.
           </p>
           <p className="font-bold">Questions?</p>
           <p className="my-4">
