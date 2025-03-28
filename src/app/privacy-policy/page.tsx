@@ -22,7 +22,7 @@ export default function PrivacyPolicy() {
       <div className="p-2 flex justify-center 2xl:py-10">
         <div className="2xl:w-6/12 text-lg">
           <p className="font-bold">Effective Date:</p>
-          <p className="mb-4">[Insert date] | Last Updated: [Insert most recent update date]</p>
+          <p className="mb-4">March 28th, 2025 | Last Updated: March 28th, 2025</p>
 
           <p className="font-bold">Protecting Your Privacy</p>
           <p className="my-4">
