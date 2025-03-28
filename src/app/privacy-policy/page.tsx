@@ -25,7 +25,9 @@ export default function PrivacyPolicy() {
           <p className="mb-4">[Insert date] | Last Updated: [Insert most recent update date]</p>
 
           <p className="font-bold">Protecting Your Privacy</p>
-          <p className="my-4">Fundela (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how we collect, use, share, and protect your information when you interact with our website (the “Site”), services, or text messaging. By using our Site or services, you agree to the terms in this Privacy Policy.</p>
+          <p className="my-4">
+            Fundela (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) values your privacy. This Privacy Policy explains how we collect, use, share, and protect your information when you interact with our website (the &quot;Site&quot;), services, or text messaging. By using our Site or services, you agree to the terms in this Privacy Policy.
+          </p>
 
           <p className="font-bold">1. Information We Collect</p>
           <p className="font-semibold my-4">Personally Identifiable Information (PII)</p>
@@ -62,7 +64,9 @@ export default function PrivacyPolicy() {
           </ul>
 
           <p className="font-bold">3. Sharing Your Information</p>
-          <p className="my-4">We <strong>do not sell</strong> your personal information.</p>
+          <p className="my-4">
+            We <strong>do not sell</strong> your personal information.
+          </p>
           <p>We may share your information with third parties under the following circumstances:</p>
           <ul className="list-disc list-inside mb-4">
             <li>With service providers who assist us in operating our Site or services</li>
@@ -92,30 +96,48 @@ export default function PrivacyPolicy() {
             <li>Limit the use of sensitive personal information</li>
             <li>Designate an authorized agent to make requests on your behalf</li>
           </ul>
-          <p>To exercise these rights, contact us at: <a href="mailto:emails@fundela.com">emails@fundela.com</a></p>
+          <p>
+            To exercise these rights, contact us at:{" "}
+            <a href="mailto:emails@fundela.com">emails@fundela.com</a>
+          </p>
 
           <p className="font-bold">7. California Privacy Notice</p>
           <p>In accordance with the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA), we provide the following additional information:</p>
           <ul className="list-disc list-inside mb-4">
-            <li><strong>Categories of Personal Information Collected:</strong> Identifiers (name, email, phone), financial data (bank statements), internet activity (site usage), and geolocation data.</li>
-            <li><strong>Sources:</strong> Information you provide directly, your device/browser, and interactions with our services.</li>
-            <li><strong>Purpose of Collection:</strong> As described above in Section 2.</li>
-            <li><strong>Sharing or Selling:</strong> We do not sell personal information. Some site activity may be shared with advertising or analytics partners, which may constitute “sharing” under CCPA.</li>
-            <li><strong>Retention:</strong> We retain data as long as needed to fulfill the purposes stated above and comply with legal obligations.</li>
-            <li><strong>CCPA Rights:</strong> You have the right to access, delete, or correct your information, and to opt out of sharing.</li>
+            <li>
+              <strong>Categories of Personal Information Collected:</strong> Identifiers (name, email, phone), financial data (bank statements), internet activity (site usage), and geolocation data.
+            </li>
+            <li>
+              <strong>Sources:</strong> Information you provide directly, your device/browser, and interactions with our services.
+            </li>
+            <li>
+              <strong>Purpose of Collection:</strong> As described above in Section 2.
+            </li>
+            <li>
+              <strong>Sharing or Selling:</strong> We do not sell personal information. Some site activity may be shared with advertising or analytics partners, which may constitute &quot;sharing&quot; under CCPA.
+            </li>
+            <li>
+              <strong>Retention:</strong> We retain data as long as needed to fulfill the purposes stated above and comply with legal obligations.
+            </li>
+            <li>
+              <strong>CCPA Rights:</strong> You have the right to access, delete, or correct your information, and to opt out of sharing.
+            </li>
           </ul>
 
           <p className="font-bold">8. External Links</p>
           <p>Our Site may link to third-party websites. We are not responsible for the privacy practices or content of those sites. We encourage you to read their policies.</p>
 
-          <p className="font-bold">9. Children’s Privacy</p>
+          <p className="font-bold">9. Children&apos;s Privacy</p>
           <p>Our services are not intended for children under 13. We do not knowingly collect personal data from children.</p>
 
           <p className="font-bold">10. Updates to This Policy</p>
-          <p>We may update this Privacy Policy periodically. Any changes will be reflected by the "Last Updated" date at the top. Continued use of our services after updates constitutes acceptance.</p>
+          <p>We may update this Privacy Policy periodically. Any changes will be reflected by the &quot;Last Updated&quot; date at the top. Continued use of our services after updates constitutes acceptance.</p>
 
           <p className="font-bold">11. Contact Us</p>
-          <p>For questions about this Privacy Policy or your data rights, email us at: <a href="mailto:emails@fundela.com">emails@fundela.com</a></p>
+          <p>
+            For questions about this Privacy Policy or your data rights, email us at:{" "}
+            <a href="mailto:emails@fundela.com">emails@fundela.com</a>
+          </p>
         </div>
       </div>
       <div>
