@@ -1,7 +1,6 @@
 import { Metadata } from "next";
 import { Suspense } from 'react'; // Import Suspense
 import MainApplicationForm from "@/components/jot-form/main-application-form";
-import TrustPilot from "@/components/trust-pilot"; // Assuming TrustPilot is desired here too
 
 export const metadata: Metadata = {
   title: "Apply for Financing", // Updated title
