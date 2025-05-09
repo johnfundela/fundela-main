@@ -20,11 +20,11 @@ export default function LineOfCredit() {
     },
     {
       title: "Rate",
-      message: "Starting as low as 6% APR",
+      message: "0.7 - 2% Monthly. APRs range from 8.5% - 24%",
     },
     {
       title: "Term",
-      message: "Revolving",
+      message: "Up to 24 Months",
     },
     {
       title: "Time to Funding",

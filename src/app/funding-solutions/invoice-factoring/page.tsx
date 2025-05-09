@@ -16,19 +16,19 @@ export default function TermLoans() {
   const solutions = [
     {
       title: "Max Approval",
-      message: "Up to 90% of invoice value ",
+      message: "Up to 95% of invoice value",
     },
     {
       title: "Rate",
-      message: "Factor rates starting at 1% per week ",
+      message: "1-5% factoring fee",
     },
     {
       title: "Term",
-      message: " Pay-as-invoice-is-paid ",
+      message: "Based on invoice cycle (typically 30-90 days)",
     },
     {
       title: "Early Payment Incentives",
-      message: "Reduced fees for rapid invoice resolution",
+      message: "N/A; capital is provided based on receivables, with no additional fees",
     },
   ];
 

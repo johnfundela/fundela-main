@@ -16,20 +16,19 @@ export default function TermLoans() {
   const solutions = [
     {
       title: "Credit Limit",
-      message: "Up to $250,000 ",
+      message: "Up to $500,000 (based on creditworthiness)",
     },
     {
-      title: "Rates: Starting at",
-      message: "12.99% APR ",
+      title: "Rates",
+      message: "APRs range from 12% - 25% (0% for the first 18 months)",
     },
     {
       title: "Term",
-      message: "Flexible repayment options with no annual fee on select cards ",
+      message: "Revolving (payment cycles typically 30 days)",
     },
     {
       title: "Special Incentives",
-      message:
-        "Earn up to 5% cashback on eligible purchases and access exclusive travel perks ",
+      message: "Interest-free if paid within the billing cycle.",
     },
   ];
 

@@ -20,7 +20,7 @@ export default function SbaLoans() {
     },
     {
       title: "Rate",
-      message: "Starting at 6% APR",
+      message: "APRs range from 5.5% - 9.75%",
     },
     {
       title: "Term",

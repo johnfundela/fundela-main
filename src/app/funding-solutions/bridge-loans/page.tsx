@@ -20,11 +20,11 @@ export default function BridgeLoans() {
     },
     {
       title: "Rate",
-      message: "APRs from 8% - 25%",
+      message: "4 - 15% in simple interest",
     },
     {
       title: "Term",
-      message: "6 - 18 Months",
+      message: "Up to 6 Months",
     },
     {
       title: "Early Payment Incentives",

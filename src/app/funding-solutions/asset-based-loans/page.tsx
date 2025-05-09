@@ -20,11 +20,11 @@ export default function TermLoans() {
     },
     {
       title: "Rate",
-      message: "APRs range from 5% - 15% ",
+      message: "APRs range from 9% - 14% ",
     },
     {
       title: "Term",
-      message: "Up to 5 Years",
+      message: "3 - 5 Years",
     },
     {
       title: "Early Payment Incentives",
